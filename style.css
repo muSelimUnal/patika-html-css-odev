@@ -1,0 +1,21 @@
+body {
+    list-style-position: inside;
+}
+.main {
+    text-align: center;
+}
+h1 {
+    color: rgb(173, 52, 52);
+}
+
+h2 {
+    color: rgb(230, 8, 230)
+}
+
+h3 {
+    color: rgb(209, 206, 1);
+}
+
+img {
+    width: 250px;
+}
